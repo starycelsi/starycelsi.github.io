@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://starycelsi.github.io/sitemap
+Sitemap: https://starycelsi.github.io/app/sitemap
+Sitemap: https://starycelsi.github.io/assets/sitemap
+Sitemap: https://starycelsi.github.io/css/sitemap
+Sitemap: https://starycelsi.github.io/includes/sitemap
+Sitemap: https://starycelsi.github.io/item/sitemap
+Sitemap: https://starycelsi.github.io/src/sitemap
